@@ -1,0 +1,105 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 8 oct. 2023, 14:08:30
+    Author     : hachem safae
+*/
+
+
+ body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #154C71;
+            color: #fff;
+            padding: 10px 0;
+        }
+
+        header h1 {
+            font-size: 24px;
+        }
+
+        .container {
+            max-width: 75%;
+            width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        fieldset {
+            margin: 0 auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+          
+        }
+
+        table {
+            margin: 0 auto;
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table th, table td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        table th {
+            background-color: #154C71;
+            color: #fff;
+        }
+
+      
+
+        form {
+            margin: 10px 0;
+        }
+
+        input[type="text"], input[type="submit"] {
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+           
+        }
+
+        input[type="submit"] {
+            background-color: #154C71;
+            color: #fff;
+            cursor: pointer;
+            margin: 0 auto;
+        }
+
+
+ 
+        
+        /* Styles pour les liens "Modifier" et "Supprimer" */
+a.modify-button, a.delete-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #154C71;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px; /* Ajoute un espacement entre les boutons */
+}
+
+
+/* Style pour le lien "Supprimer" */
+a.delete-button {
+    background-color: #CF281A; /* Couleur différente pour le bouton Supprimer */
+}
+
+  

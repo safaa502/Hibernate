@@ -11,3 +11,4 @@ PRODUIT
 <img width="911" alt="image" src="https://github.com/safaa502/Hibernate/assets/125218247/83f14d29-a131-4bb9-8c6b-1bd5a179d5a4">
 COMMANDE 
 <img width="925" alt="image" src="https://github.com/safaa502/Hibernate/assets/125218247/bb90cf86-eaa5-422f-8613-9c17f61655c2">
+<img width="929" alt="image" src="https://github.com/safaa502/Hibernate/assets/125218247/4b84adb8-6942-46a6-9293-63d6e428b1aa">
